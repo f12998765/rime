@@ -224,3 +224,9 @@ Amazon	amazon
 NASA	nasa
 gone	gone
 Go程	gocheng
+
+夕	xi
+天夕	tianxi
+天夕	tx
+夕夕大魔王	xixidamowang
+半歌	bange
